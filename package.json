@@ -1,0 +1,17 @@
+{
+  "name": "cityhub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-html-transcripts": "^2.2.8",
+    "discord.js": "^13.6.0",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3"
+  }
+}
